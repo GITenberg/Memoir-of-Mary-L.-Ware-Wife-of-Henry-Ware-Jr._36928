@@ -1,0 +1,28 @@
+_repo: Memoir-of-Mary-L.-Ware-Wife-of-Henry-Ware-Jr._36928
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, Edward B. (Edward Brooks)
+    alias: Hall, Edward Brooks
+    birthdate: 1800
+    deathdate: 1866
+    gutenberg_agent_id: '38540'
+    url: http://www.gutenberg.org/2009/agents/38540
+description: ''
+gutenberg_issued: '2011-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Ware, Mary L. (Mary Lovell), 1798-1849'
+- !lcsh 'Unitarians -- United States -- Biography'
+title: Memoir of Mary L. Ware, Wife of Henry Ware, Jr.
+url: http://www.gutenberg.org/ebooks/36928
